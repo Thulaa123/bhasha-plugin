@@ -8,7 +8,7 @@ docker pull octobercms/october-dev
 ```
 2. For more info https://youtu.be/IImOhCbmD-I?si=ZjWuuA7iq74G9Qb9
 3. Create a folder on the plugins directory called ``bhasha``
-5. Clone this repository into the graffon folder
+5. Clone this repository into the Bhasha folder
 6. Install the ``User`` & ``Builder`` plugins from the package installer on the October cms backend \
 i. Until the this plugin using
 ```
