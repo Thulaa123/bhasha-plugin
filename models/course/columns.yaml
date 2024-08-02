@@ -1,0 +1,19 @@
+columns:
+    id:
+        label: ID
+        type: number
+        searchable: true
+    name:
+        label: Name
+        type: text
+        searchable: true
+    department:
+        label: Department
+        type: text
+        searchable: true
+    fee:
+        label: Fee
+        type: number
+    updated_at:
+        label: 'Updated At'
+        type: datetime

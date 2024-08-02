@@ -1,0 +1,20 @@
+fields:
+    name:
+        label: 'Course name'
+        span: auto
+        type: text
+    department:
+        label: Department
+        options:
+            Engineering: Engineering
+            'Business Management': 'Business Management'
+            English: English
+            Hospitality: Hospitality
+            Health: Health
+        showSearch: 0
+        span: auto
+        type: dropdown
+    fee:
+        label: 'Course Fee'
+        span: full
+        type: number

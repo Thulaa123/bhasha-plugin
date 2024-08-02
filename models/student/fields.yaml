@@ -1,0 +1,28 @@
+fields:
+    first_name:
+        label: 'First Name'
+        span: auto
+        type: text
+    last_name:
+        label: 'Last name'
+        span: auto
+        type: text
+    birthday:
+        label: Birthday
+        mode: date
+        span: auto
+        type: datepicker
+    address:
+        label: Address
+        span: auto
+        type: text
+    contact_number:
+        label: 'Contact Number'
+        span: full
+        type: text
+    courses:
+        label: Courses
+        nameFrom: name
+        descriptionFrom: description
+        span: full
+        type: relation

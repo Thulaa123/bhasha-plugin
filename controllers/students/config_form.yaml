@@ -1,0 +1,10 @@
+name: Students
+form: $/bhasha/xinstitute/models/student/fields.yaml
+modelClass: Bhasha\Xinstitute\Models\Student
+defaultRedirect: bhasha/xinstitute/students
+create:
+    redirect: 'bhasha/xinstitute/students/update/:id'
+    redirectClose: bhasha/xinstitute/students
+update:
+    redirect: bhasha/xinstitute/students
+    redirectClose: bhasha/xinstitute/students

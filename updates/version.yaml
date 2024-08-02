@@ -1,0 +1,12 @@
+v1.0.1:
+    - 'Initialize plugin'
+    - add_plugin_column.php
+v1.0.2:
+    - 'Created table bhasha_xinstitute_students'
+    - builder_table_create_bhasha_xinstitute_students.php
+v1.0.3:
+    - 'Updated table bhasha_xinstitute_students'
+    - builder_table_update_bhasha_xinstitute_students.php
+v1.0.4:
+    - 'Created table bhasha_xinstitute_courses'
+    - builder_table_create_bhasha_xinstitute_courses.php

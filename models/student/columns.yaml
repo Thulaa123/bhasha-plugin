@@ -1,0 +1,24 @@
+columns:
+    id:
+        label: ID
+        type: number
+    first_name:
+        label: 'First Name'
+        type: text
+        searchable: true
+    last_name:
+        label: 'Last Name'
+        type: text
+    birthday:
+        label: Birthday
+        type: text
+    address:
+        label: Address
+        type: text
+    contact_number:
+        label: 'Contact Number'
+        type: text
+        searchable: true
+    updated_at:
+        label: 'Updated At'
+        type: datetime

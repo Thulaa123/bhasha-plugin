@@ -1,0 +1,20 @@
+plugin:
+    name: 'bhasha.xinstitute::lang.plugin.name'
+    description: 'bhasha.xinstitute::lang.plugin.description'
+    author: bhasha
+    icon: oc-icon-book
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: X-Institute
+        url: /
+        icon: icon-users
+        sideMenu:
+            side-menu-item:
+                label: Students
+                url: bhasha/xinstitute/students
+                icon: icon-user
+            side-menu-item2:
+                label: Courses
+                url: bhasha/xinstitute/courses
+                icon: icon-book
